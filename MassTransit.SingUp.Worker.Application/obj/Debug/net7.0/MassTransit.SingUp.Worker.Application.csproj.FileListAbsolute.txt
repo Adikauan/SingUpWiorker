@@ -1,0 +1,15 @@
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\bin\Debug\net7.0\MassTransit.SingUp.Worker.Application.deps.json
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\bin\Debug\net7.0\MassTransit.SingUp.Worker.Application.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\bin\Debug\net7.0\MassTransit.SingUp.Worker.Application.pdb
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\bin\Debug\net7.0\MassTransit.SingUp.Worker.Domain.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\bin\Debug\net7.0\MassTransit.SingUp.Worker.Domain.pdb
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\MassTransit.SingUp.Worker.Application.csproj.AssemblyReference.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\MassTransit.SingUp.Worker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\MassTransit.SingUp.Worker.Application.AssemblyInfoInputs.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\MassTransit.SingUp.Worker.Application.AssemblyInfo.cs
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\MassTransit.SingUp.Worker.Application.csproj.CoreCompileInputs.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\MassTransit.SingUp.Worker.Application.csproj.CopyComplete
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\MassTransit.SingUp.Worker.Application.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\refint\MassTransit.SingUp.Worker.Application.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\MassTransit.SingUp.Worker.Application.pdb
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Application\obj\Debug\net7.0\ref\MassTransit.SingUp.Worker.Application.dll

@@ -1,0 +1,17 @@
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\bin\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.deps.json
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\bin\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.runtimeconfig.json
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\bin\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\bin\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.pdb
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\bin\Debug\net7.0\MassTransit.SingUp.Worker.Domain.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\bin\Debug\net7.0\MassTransit.SingUp.Worker.Domain.pdb
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.AssemblyInfo.cs
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.csproj.CopyComplete
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\refint\MassTransit.SingUp.Worker.Infrastructure.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.pdb
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\MassTransit.SingUp.Worker.Infrastructure.genruntimeconfig.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Infrastructure\obj\Debug\net7.0\ref\MassTransit.SingUp.Worker.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\bin\Debug\net7.0\MassTransit.SingUp.Worker.Domain.deps.json
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\bin\Debug\net7.0\MassTransit.SingUp.Worker.Domain.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\bin\Debug\net7.0\MassTransit.SingUp.Worker.Domain.pdb
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\MassTransit.SingUp.Worker.Domain.csproj.AssemblyReference.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\MassTransit.SingUp.Worker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\MassTransit.SingUp.Worker.Domain.AssemblyInfoInputs.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\MassTransit.SingUp.Worker.Domain.AssemblyInfo.cs
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\MassTransit.SingUp.Worker.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\MassTransit.SingUp.Worker.Domain.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\refint\MassTransit.SingUp.Worker.Domain.dll
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\MassTransit.SingUp.Worker.Domain.pdb
+C:\Estudos\MassTransit\MassTransit.SingUp.Worker\MassTransit.SingUp.Worker.Domain\obj\Debug\net7.0\ref\MassTransit.SingUp.Worker.Domain.dll
